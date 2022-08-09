@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a DevOps
+- 🌱 I’m currently learning a lot of different Stuff(AWS, ....)
+- :eyes: I’m interested in Ansible, Terraform, Kubernetes, SailfishOS, ....
+- ⚡ Fun fact: Flying is my second Hobby
 <!--
 **bauidch/bauidch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
